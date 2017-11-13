@@ -1,8 +1,4 @@
-# A blog
-努力去思考，发现精彩！
-
-
-## 目录
+# 目录
 文章列表
 
 ### 随笔
@@ -15,4 +11,5 @@
 
 ## 备注
 邮箱：csjwork@163.com
-网站：https://csjwork.github.io/blog/
+
+网站：https://csjwork.github.io/blog
