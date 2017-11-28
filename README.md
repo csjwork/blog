@@ -11,7 +11,7 @@
 1. 
 
 ## 四、收集
-1. [Markdowna资料](https://github.com/csjwork/blog/blob/master/%E6%94%B6%E9%9B%86/markdown.md)
+1. [Markdowna资料](https://github.com/csjwork/blog/blob/master/%E6%94%B6%E9%9B%86/markdown.html)
 
 ## 备注
 邮箱：csjwork@163.com  
